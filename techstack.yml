@@ -2,7 +2,7 @@ repo_name: 2lambda123/AmbitSync
 report_id: 5e0241ad32836126548857e3b04bcbe8
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:56:54+00:00'
+timestamp: '2024-02-29T19:14:57+00:00'
 requested_by: starryalley
 provider: github
 branch: master
@@ -55,7 +55,7 @@ tools:
   last_updated_by: Mark Kuo
   last_updated_on: 2022-01-20 02:42:28.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
